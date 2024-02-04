@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 Boats Pool Puzzle", "6 Boats Pool Puzzle.csproj", "{56659405-6145-4652-BAE5-8432FAA3F556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56659405-6145-4652-BAE5-8432FAA3F556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56659405-6145-4652-BAE5-8432FAA3F556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56659405-6145-4652-BAE5-8432FAA3F556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56659405-6145-4652-BAE5-8432FAA3F556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94490532-9514-4A00-B508-CB5B6A23A6E5}
+	EndGlobalSection
+EndGlobal
